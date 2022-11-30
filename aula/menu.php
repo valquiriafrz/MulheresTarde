@@ -12,26 +12,36 @@
             <li class="nav-item">
               <a class="nav-link" href="#">Nossa Academia</a>
             </li>
+
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Atividades
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Spinning</a>
                 <a class="dropdown-item" href="#">Jumpp</a>
-                <a class="dropdown-item" href="#">HidroJumpp</a>
-                <a class="dropdown-item" href="#">Danças</a>
+                <a class="dropdown-item" href="#">Funcional</a>
                 
               </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Loja
+              Loja
               </a>
+
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="Roupas.php">Roupas</a>
-                <a class="dropdown-item" href="Suplementos.php">Suplementos</a>
-                <a class="dropdown-item" href="Diversos.php">Diversos</a>
+                <a class="dropdown-item" href="roupas.php">Roupas</a>
+                <a class="dropdown-item" href="suplementos.php">Suplementos</a>
+                <a class="dropdown-item" href="acessorios.php">Acessorios</a>
+                <a class="dropdown-item" href="mochilas.php">Mochilas</a>
                 
               </div>
             </li>
+
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+          </form>
+        </div>
       </nav>

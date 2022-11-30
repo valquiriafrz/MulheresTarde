@@ -1,85 +1,86 @@
 <?php
-  require_once 'head.php';
-  require_once 'menu.php';
-  ?>
+require_once 'head.php';
+require_once 'menu.php';
 
+?>
 
     
-    <div class="container-fluid">
+
+ <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12 text-center">
-                <img src="imagens/academia3.jpg" class="img-fluid">
+            <div class="col-md-12 text-center tela">
+                <img src="imagens/images4.jpg" class="img-fluid">
             </div>
 
         </div>
     </div>
 
-
-      <div class="container-fluid">
-        <div class="row">
+    <div class="container-fluid texto">
+      <div class="row">
         <div class="col-md-12 text-center">
-          <h2>Conheça um pouco das nossas atividades </h2>
-        </div>
+          <h2>Conheça Algumas de Nossas Atividades</h2>
         </div>
       </div>
-           
+    </div>
+
     <div class="container-fluid imagens">
         <div class="row">
             <div class="col-md-4">
-                <img src="imagens/academia1.jpg" class="img-fluid">
+                <img src="imagens/images1.jpg" class="img-fluid">
             </div>
 
             <div class="col-md-4">
-                <img src="imagens/academia2.jpg" class="img-fluid">
+                <img src="imagens/images2.jpg" class="img-fluid">
             </div>
 
             <div class="col-md-4">
-                <img src="imagens/academia4.webp" class="img-fluid">
+                <img src="imagens/images3.jpg" class="img-fluid">
             </div>
 
         </div>
     </div>
+
     <div class="container-fluid text-center conteudo">
       <div class="row">
-        <div class="col-md-6 texto">
-          <img src="imagens/academia5.jpg" class="img-fluid">
+        <div class="col-md-6 col-sm">
+          <img src="imagens/jump.jpg" class="img-fluid">
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm">
           <h3>Jumpp</h3>
-         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. A sapiente totam quam repellendus veniam aliquid? Ipsam, amet. Laborum illum ab similique officia, mollitia nemo quam commodi perferendis, laboriosam molestias nobis?<p>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt nobis in facilis. Ad deleniti voluptatem dolorem ut distinctio alias recusandae quae et suscipit rem eaque eligendi sit possimus, in voluptas.</p>
+            <p>Muitas pessoas procuram o Jump para fortalecer as pernas e os glúteos, mas, mais do que essas regiões, ele trabalha muito bem a região do abdômen, e muitos dos exercícios são localizados para cuidar também dos músculos das costas e dos braços.</p>
+            <p>Por ser um exercício aeróbico intenso, uma aula de jump completa pode promover gasto calórico de até 900 calorias em 60 minutos. Essa elevada queima calórica pode ajudar na perda de peso, especialmente se o praticante combinar com uma dieta balanceada e realizar os exercícios com regularidade.</p>
         </div>
       </div>
+    </div>
+
+    <div class="container-fluid text-center conteudo">
       <div class="row">
-        <div class="col-md-6">
-            <h4>Hidro Jumpp</h4>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente voluptates tenetur dolorem omnis, quidem id eaque ullam ipsam modi adipisci enim hic? Obcaecati incidunt quae illo, saepe reprehenderit consequatur voluptatem?</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum a iste suscipit voluptas voluptatum quia in reprehenderit aspernatur illum. Tempora ex quos consequuntur rerum iure nobis deserunt sapiente maiores quae.</p>
-          </div>
-          <div class="col-md-6">
-            <img src="imagens/academia6.jpg" class="img-fluid">
+        <div class="col-md-6 col-sm">
+          <h3>Hidroginástica</h3>
+          <p>A hidroginástica melhora a força muscular, resistência, flexibilidade e equilíbrio. Comparada a exercícios terrestres, reduz o impacto sobre articulações e apresenta menor risco de lesões. Bom, né? Por tudo isso, a prática é recomendada para melhorar a capacidade motora funcional e independência da população idosa.</p>
+          <p>Mas, os benefícios podem alcançar ainda mais pessoas. Afinal, manter o corpo forte e saudável é bom em qualquer idade. Concorda? A hidroginástica pode ser uma ótima opção para quem quer sair do sedentarismo, para gestantes ou, simplesmente, para quem derrete de calor só de pensar em exercícios físicos no verão. </p>
+        </div>
+        <div class="col-md-6 col-sm">
+          <img src="imagens/hidro.jpg" class="img-fluid">
           </div>
       </div>
-      <div class="container-fluid text-center conteudo">
-        <div class="row">
-          <div class="col-md-6 texto">
-            <img src="imagens/academia7.jpg" class="img-fluid">
-          </div>
-          <div class="col-md-6">
-            <h5>Danças</h5>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non molestias dolores architecto porro sunt deleniti hic facere, eveniet omnis est quae saepe mollitia optio fugiat esse, quod dolorem expedita cumque?</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi porro repudiandae ea rerum ullam molestias enim exercitationem eveniet assumenda. Ipsum repellendus delectus est ratione exercitationem quod odit vel cum a!</p>
-          </div>
-          
-         <?php require_once 'footer.php';
-           ?>
-       
-      
+    </div>
 
-        
+    <div class="container-fluid text-center conteudo">
+      <div class="row">
+        <div class="col-md-6 col-sm">
+          <img src="imagens/spinning.jpg" class="img-fluid">
+        </div>
+        <div class="col-md-6 col-sm">
+          <h3>Spinning</h3>
+          <p>Os principais benefícios do spinning para quem pratica são: trabalhar todo o condicionamento físico e muscular, principalmente das pernas e glúteos; ajudar a tonificar as veias e melhorar os movimentos, o que contribui para a redução da pressão arterial, diminuindo os riscos de doenças cardíacas</p>
+        </div>
+      </div>
 
+    </div>
 
+   
 
-
-
-    
+    <?php
+    require_once 'footer.php';
+    ?>
