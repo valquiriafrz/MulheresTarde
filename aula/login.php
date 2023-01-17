@@ -71,7 +71,9 @@ if(isset($_SESSION['msg'])){
                             <div class="form-group">
                                
                                 <input type="submit"  class="btn btn-info btn-md" value="Enviar" name="btnlogin">
-                                <input type="submit" name="cadastro" class="btn btn-info btn-md" value="Cadastre-se">
+                               
+                                <input type="submit" name="cadastro" class="btn btn-info btn-md" value="Cadastre-se"></a>
+
                             </div>
                             
                         </form>

@@ -12,10 +12,10 @@
         <div class="col-md-3">
           <h4>Atividades</h4>
           <ul class="navbar-nav mr-auto">
-            <li class="navbar-item"><a class="nav-link" href="#">Spinning</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Jumpp</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Funcional</a></li>
-            <li class="navbar-item"><a class="nav-link" href="#">Pilates</a></li>
+            <li class="navbar-item"><a class="nav-link" href="spinning.php">Spinning</a></li>
+            <li class="navbar-item"><a class="nav-link" href="jumpp.php">Jumpp</a></li>
+            <li class="navbar-item"><a class="nav-link" href="fumcional.php">Funcional</a></li>
+            <li class="navbar-item"><a class="nav-link" href="pilates.php">Pilates</a></li>
           </ul>
         </div>
 

@@ -83,7 +83,8 @@
                             <div class="form-group">
                                
                                 <input type="submit" name="submit" class="btn btn-info btn-md" value="Enviar">
-                                <input type="submit" name="submit" class="btn btn-info btn-md" value="Cadastre-se">
+                                <a href ="frmaluno.php" > <input type="submit" name="submit" class="btn btn-info btn-md" value="Cadastre-se"></a>
+                                <a href ="frmaluno.php" >
                             </div>
                             
                         </form>
